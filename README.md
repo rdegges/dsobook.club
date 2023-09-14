@@ -12,5 +12,5 @@ Welcome to the...
 This repo holds the static website for the DevSecOps Book Club! This is a
 community project.
 
-To get invovled, please [join our Discord](https://discord.com/invite/Za8vMep668).
+To get invovled, please [join our Discord](https://discord.gg/devsecops-community-918181751526948884).
 
